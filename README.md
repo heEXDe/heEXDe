@@ -1,4 +1,4 @@
-### Hi there 👋
+### "Hello World" 👋
 
 <!--
 **heEXDe/heEXDe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💻 Technologies I am currently ‘playing with’:
+- JavaScript
+- HTML / CSS
+- ReactJS
+- SQL
+- IPFS
+
+The following topics are also welcome:
+
+🤔 philosophy
+
+💰 economics
