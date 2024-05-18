@@ -26,3 +26,10 @@ The following topics are also welcome:
 🤔 philosophy
 
 💰 economics
+
+
+Some stats:
+
+[![Michał's GitHub stats](https://github-readme-stats.vercel.app/api?username=heEXDe&theme=dracula)](https://github.com/heEXDe/github-readme-stats)
+
+(stats thanks to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
